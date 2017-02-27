@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "litecore-lib": "^0.13.19",
-    "litecore-node": "^3.1.4",
+    "litecore-node-rjmacarthy": "^3.1.6",
     "insight-api": "^0.4.0",
     "insight-ui": "^0.4.0"
   },
